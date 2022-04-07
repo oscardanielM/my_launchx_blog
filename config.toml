@@ -15,7 +15,7 @@ paginate = 3
   # Hey Explorer aquí pon tu twitter 👇
   twitter_handle = "@visual_partner"
   showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
   addFrame = true
   addDot = true
