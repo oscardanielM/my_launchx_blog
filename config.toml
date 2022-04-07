@@ -1,5 +1,5 @@
 baseURL = "https://oscardanielm.github.io/my_launchx_blog/"
-languageCode = "en-mx"
+languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
