@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
+baseURL = "https://oscardanielm.github.io/my_launchx_blog/"
+languageCode = "en-mx"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
