@@ -16,5 +16,14 @@
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
+    <item>
+      <title>Prueba del segundo post</title>
+      <link>https://oscardanielm.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://oscardanielm.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
